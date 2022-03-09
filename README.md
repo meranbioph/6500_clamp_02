@@ -4,4 +4,4 @@ An OpenFOAM project.
 
 To run, download the O, system and constant directories.
 
-Runt the commands: blockMesh, 
+Run the commands: blockMesh, topoSet, simpleFoam
